@@ -9,6 +9,12 @@ li {
 }
 
 a {
+    font-family: Arial, Helvetica, sans-serif;
     color: #5865F2;
     text-decoration: none;
+}
+
+img {
+    vertical-align: middle;
+    padding: 5px;
 }
